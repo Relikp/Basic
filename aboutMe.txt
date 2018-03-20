@@ -1,3 +1,6 @@
 Name: Relik
 Project goal: Master Git!
 Favorite TV Show: Blank screen
+Favorite quote: 
+"A wink is as good as a nod to a blind bat" 
+-Monty Python
